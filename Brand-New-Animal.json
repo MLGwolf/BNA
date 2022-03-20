@@ -1,8 +1,8 @@
 {
     "manifest": {
-        "author": "WolfWasTaken ",
-        "version": "1.00",
         "name": "BNA",
+        "author": "WolfWasTaken",
+        "version": "1.0.0",
         "updater": "https:\/\/raw.githubusercontent.com\/MLGwolf\/BNA\/main\/Brand-New-Animal.json"
     },
     "background": {
@@ -28,9 +28,5 @@
         "ic_status_streaming_16dp": -10930539,
         "ic_status_invisible_16dp": -8355712,
         "ic_status_idle_16dp": -350693
-    },
-    "raws": {
-        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3",
-        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3"
     }
 }
